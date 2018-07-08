@@ -1,0 +1,7 @@
+#Thu Mar 30 13:59:15 PHT 2017
+base.0=/home/tristan/Documents/iVenture/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7c58e9428169cf357e4e89c572a790eabce8f8d0
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/tristan/Documents/iVenture/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9bd5d7551a965290d98a5b3d867af713922643b4/classes.dex
+base.1=/home/tristan/Documents/iVenture/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9bd5d7551a965290d98a5b3d867af713922643b4
+file.0=/home/tristan/Documents/iVenture/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7c58e9428169cf357e4e89c572a790eabce8f8d0/classes.dex

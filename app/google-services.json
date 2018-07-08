@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "307387682506",
+    "firebase_url": "https://iventure-a7cc5.firebaseio.com",
+    "project_id": "iventure-a7cc5",
+    "storage_bucket": "iventure-a7cc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307387682506:android:638130e53533554c",
+        "android_client_info": {
+          "package_name": "com.sirib.iventure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307387682506-hi4rqnloqej58j2bvcmjmvgmkloueddf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sirib.iventure",
+            "certificate_hash": "2d67b6273e744a24064e1dea1235d9157e638733"
+          }
+        },
+        {
+          "client_id": "307387682506-9jej5ohp5p02q4l49dr38fiqg1n7tu7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkDprAsh-Aih2axud9w_MT2dZA_LNnu0I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

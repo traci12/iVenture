@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/marcosmuseum.png",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable/marcosmuseum.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/stamonicachurch.png",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable/stamonicachurch.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/dragonfruitfarm.png",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable/dragonfruitfarm.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/list_row_bg.xml",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable/list_row_bg.xml"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/artemioricarte.png",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable/artemioricarte.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/marcosmausoleum.png",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable/marcosmausoleum.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/kullabeng.png",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable/kullabeng.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/williamscathedral.png",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable/williamscathedral.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/abotcave.png",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable/abotcave.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/lighthouse.png",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable/lighthouse.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/doshermanosisland.png",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable/doshermanosisland.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/bluelagoon.png",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable/bluelagoon.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/paoaylake.png",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable/paoaylake.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/aglipayshrine.png",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable/aglipayshrine.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/plazadelnorte.png",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable/plazadelnorte.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/list_row_selector.xml",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable/list_row_selector.xml"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/bannazipline.png",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable/bannazipline.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/malacanang.png",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable/malacanang.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/internationalairport.png",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable/internationalairport.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/sitioremedios.png",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable/sitioremedios.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/paraisonianton.png",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable/paraisonianton.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/paoaygolfcourse.png",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable/paoaygolfcourse.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/kaangrianfalls.png",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable/kaangrianfalls.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/patapatviaduct.png",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable/patapatviaduct.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/pangil.png",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable/pangil.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/kapurpurawan.png",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable/kapurpurawan.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/windmills.png",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable/windmills.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/sinkingbelltower.png",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable/sinkingbelltower.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/fortilocandia.png",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable/fortilocandia.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/list_row_bg_hover.xml",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable/list_row_bg_hover.xml"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/juanlunashrine.png",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable/juanlunashrine.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/ilocosmuseum.png",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable/ilocosmuseum.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/saudwhitesand.png",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable/saudwhitesand.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/paoaychurch.png",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable/paoaychurch.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/tobaccomonopoly.png",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable/tobaccomonopoly.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/lapazsanddunes.png",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable/lapazsanddunes.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable/morowatchtower.png",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable/morowatchtower.png"
+    }
+]

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/home/tristan/Documents/iVenture/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.2.0_f4e3c400fbe017de058346727dddd499f7a1ab1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="/home/tristan/Documents/iVenture/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-gass-10.2.0_34be46fdddee5f930ccf5d2465c43d04eb333937.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="/home/tristan/Documents/iVenture/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.2.0_34be46fdddee5f930ccf5d2465c43d04eb333937/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/home/tristan/Documents/iVenture/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-base-10.2.0_f4e3c400fbe017de058346727dddd499f7a1ab1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="/home/tristan/Documents/iVenture/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-ads-lite-10.2.0_3f4bdd51c3a699f18fa5f0628b796db64662075c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/tristan/Documents/iVenture/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_c70aa026d0e95dfac6c1b3c1cac07c42707db736/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="/home/tristan/Documents/iVenture/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.2.0_3f4bdd51c3a699f18fa5f0628b796db64662075c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/tristan/Documents/iVenture/app/build/intermediates/pre-dexed/release/internal_impl-24.0.0_c70aa026d0e95dfac6c1b3c1cac07c42707db736.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tristan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/tristan/Documents/iVenture/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_dc6c6f96dad1fd42cc44d11025a365d82c241906/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="/home/tristan/Documents/iVenture/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-ads-10.2.0_62dd9b5439d00b13680e1351ec3b9917fe3feca9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="/home/tristan/Documents/iVenture/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.2.0_9587ab4c9227fc2a6d1395edfed90daaf815faf8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="/home/tristan/Documents/iVenture/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-analytics-impl-10.2.0_9587ab4c9227fc2a6d1395edfed90daaf815faf8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="/home/tristan/Documents/iVenture/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.2.0_62dd9b5439d00b13680e1351ec3b9917fe3feca9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/tristan/Documents/iVenture/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-24.0.0_975f163108054deb39b762646d2cd4a2cd9fcc60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="/home/tristan/Documents/iVenture/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-clearcut-10.2.0_3458f4a3b691bb2785463ef0c6318d7846d71ec7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="/home/tristan/Documents/iVenture/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-common-10.2.0_f4adfb1b9130a3f70a7f92cc71fc12db28bff71d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="/home/tristan/Documents/iVenture/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.2.0_3458f4a3b691bb2785463ef0c6318d7846d71ec7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tristan/Documents/iVenture/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a329916f2040329d4c998ff43b74f90c9652bb51">
+        <dex dex="/home/tristan/Documents/iVenture/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7c58e9428169cf357e4e89c572a790eabce8f8d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="/home/tristan/Documents/iVenture/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-analytics-10.2.0_5197f475dd2fc7e37b648eb0e8de91b0618659b7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tristan/Documents/iVenture/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="431d915e0245bc786d9cda8ff30c6c1c501f12fc">
+        <dex dex="/home/tristan/Documents/iVenture/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9bd5d7551a965290d98a5b3d867af713922643b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="/home/tristan/Documents/iVenture/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.2.0_f4adfb1b9130a3f70a7f92cc71fc12db28bff71d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/home/tristan/Documents/iVenture/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-basement-10.2.0_f4f65a6e3d337b4c4b31cd316d8acf5fbf816943.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tristan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/tristan/Documents/iVenture/app/build/intermediates/pre-dexed/release/support-annotations-24.0.0_dc6c6f96dad1fd42cc44d11025a365d82c241906.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/home/tristan/Documents/iVenture/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.2.0_f4f65a6e3d337b4c4b31cd316d8acf5fbf816943/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="/home/tristan/Documents/iVenture/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.2.0_a4d3c9f7aea1d32490b4006824a4e4ee223e4ad6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/home/tristan/Documents/iVenture/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.2.0_a87289f72453a2324dd7a7f74dd24715a1256221/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="/home/tristan/Documents/iVenture/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.2.0_5197f475dd2fc7e37b648eb0e8de91b0618659b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/home/tristan/Documents/iVenture/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-tasks-10.2.0_a87289f72453a2324dd7a7f74dd24715a1256221.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="/home/tristan/Documents/iVenture/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-iid-10.2.0_a4d3c9f7aea1d32490b4006824a4e4ee223e4ad6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/tristan/Documents/iVenture/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_975f163108054deb39b762646d2cd4a2cd9fcc60/classes.dex" />
+    </item>
+
+</items>

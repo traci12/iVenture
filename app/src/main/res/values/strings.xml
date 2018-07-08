@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3762334568755246/4653668619</string>
+
+    <string name="app_name">iVenture</string>
+    <string name="action_settings">Settings</string>
+    <string name="country_prompt">Choose a municipality</string>
+
+    <string-array name="country_north">
+        <item>Adams</item>
+        <item>Bacarra</item>
+        <item>Bangui</item>
+        <item>Burgos</item>
+        <item>Dumalneg</item>
+        <item>Laoag City</item>
+        <item>Pagudpud</item>
+        <item>Pasuquin</item>
+        <item>Vintar</item>
+    </string-array>
+    
+    <string-array name="country_east">
+        <item>Banna</item>
+        <item>Carasi</item>
+        <item>Dingras</item>
+        <item>Marcos</item>
+        <item>Nueva Era</item>
+        <item>Piddig</item>
+        <item>San Nicolas</item>
+        <item>Sarrat</item>
+        <item>Solsona</item>
+    </string-array>
+    
+    <string-array name="country_west">
+        <item>Paoay</item>
+    </string-array>
+    
+    <string-array name="country_south">
+        <item>Badoc</item>
+        <item>Batac</item>
+        <item>Curimao</item>
+        <item>Pinili</item>
+    </string-array>
+
+</resources>

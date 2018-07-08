@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable-mdpi-v4/burgoslocation.xml",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable-mdpi/burgoslocation.xml"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable-mdpi-v4/badoclocation.xml",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable-mdpi/badoclocation.xml"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable-mdpi-v4/currimaolocation.xml",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable-mdpi/currimaolocation.xml"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable-mdpi-v4/spots.xml",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable-mdpi/spots.xml"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable-mdpi-v4/bataclocation.xml",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable-mdpi/bataclocation.xml"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable-mdpi-v4/pagudpudlocation.xml",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable-mdpi/pagudpudlocation.xml"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable-mdpi-v4/batac.xml",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable-mdpi/batac.xml"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable-mdpi-v4/contacts.xml",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable-mdpi/contacts.xml"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable-mdpi-v4/currimao.xml",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable-mdpi/currimao.xml"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable-mdpi-v4/bacarralocation.xml",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable-mdpi/bacarralocation.xml"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable-mdpi-v4/laoag.xml",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable-mdpi/laoag.xml"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable-mdpi-v4/googleg_disabled_color_18.png",
+        "source": "/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable-mdpi-v4/banguilocation.xml",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable-mdpi/banguilocation.xml"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable-mdpi-v4/refresh.xml",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable-mdpi/refresh.xml"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable-mdpi-v4/paoaylocation.xml",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable-mdpi/paoaylocation.xml"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable-mdpi-v4/sannicolas.xml",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable-mdpi/sannicolas.xml"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable-mdpi-v4/laoaglocation.xml",
+        "source": "/home/tristan/Documents/iVenture/app/src/main/res/drawable-mdpi/laoaglocation.xml"
+    },
+    {
+        "merged": "/home/tristan/Documents/iVenture/app/build/intermediates/res/merged/release/drawable-mdpi-v4/googleg_standard_color_18.png",
+        "source": "/home/tristan/Documents/iVenture/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/drawable-mdpi-v4/googleg_standard_color_18.png"
+    }
+]

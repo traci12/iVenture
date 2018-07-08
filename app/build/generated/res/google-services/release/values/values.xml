@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">307387682506-9jej5ohp5p02q4l49dr38fiqg1n7tu7t.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://iventure-a7cc5.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">307387682506</string>
+    <string name="google_api_key" translatable="false">AIzaSyAkDprAsh-Aih2axud9w_MT2dZA_LNnu0I</string>
+    <string name="google_app_id" translatable="false">1:307387682506:android:638130e53533554c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAkDprAsh-Aih2axud9w_MT2dZA_LNnu0I</string>
+    <string name="google_storage_bucket" translatable="false">iventure-a7cc5.appspot.com</string>
+</resources>
